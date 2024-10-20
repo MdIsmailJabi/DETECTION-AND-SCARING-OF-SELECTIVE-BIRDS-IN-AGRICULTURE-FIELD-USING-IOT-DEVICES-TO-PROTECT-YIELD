@@ -32,7 +32,7 @@ This project aims to protect crops by detecting parrots and sparrows using AI an
 ## 📂 **How to Use**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/DETECTION-AND-SCARING-OF-SELECTIVE-BIRDS-IN-AGRICULTURE
+   git clone https://github.com/MdIsmailJabi/DETECTION-AND-SCARING-OF-SELECTIVE-BIRDS-IN-AGRICULTURE
    cd DETECTION-AND-SCARING-OF-SELECTIVE-BIRDS-IN-AGRICULTURE
    ```
 2. Install dependencies:  
